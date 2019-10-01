@@ -4,7 +4,7 @@ name: "DevOps Workshop with OpenShift"
 vars:
   OPENSHIFT_URL: "https://master.paris-d9c2.open.redhat.com"
   OPENSHIFT_USER: "userXX"
-  OPENSHIFT_PASSWORD: "openshift3"
+  OPENSHIFT_PASSWORD: "openshift"
   OPENSHIFT_DOCS_BASE: "https://docs.openshift.com/container-platform/3.11"
   NEXUS_URL: "http://nexus-lab-infra.apps.paris-d9c2.open.redhat.com"
   NEXUS_INTERNAL_URL: "http://nexus.lab-infra.svc:8081"
